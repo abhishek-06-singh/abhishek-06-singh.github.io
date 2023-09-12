@@ -1,0 +1,5 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+  # Add this line to disable cache
+  cache = { paths = [] }
