@@ -299,7 +299,7 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
+      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. ",
     link: "https://twitter.com/Harikrushn9",
     avatar_image_path: "blogs_image.svg",
   },
