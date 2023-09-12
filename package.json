@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "person",
-  "homepage": "http://abhishek-06-singh.github.io/abhishek-06-singh.github.io",
+  "homepage": "https://neon-seahorse-a58f5e.netlify.app/",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
