@@ -25,7 +25,7 @@ export default function Contact() {
             </a>
             <br />
             <br />
-            <SocialMedia />s
+            <SocialMedia />
           </div>
         </div>
         <div className="contact-image-div">

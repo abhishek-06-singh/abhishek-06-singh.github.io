@@ -308,7 +308,38 @@ const contactPageData = {
 const projects = {
   data: [
     {
-      id: "0",
+      id: "1",
+      name: "ReactBreeze Ui Components",
+      img:
+        "https://github.com/abhishek-06-singh/ReactBreeze-UI-Library/assets/115978151/f91df431-c46b-4368-bb84-23c73205e42a",
+      url: "https://illustrious-smakager-a05a4d.netlify.app/",
+      description:
+        "ReactBreeze UI Library offers a curated collection of meticulously crafted React components styled with the power of Tailwind CSS. Explore, customize, and effortlessly integrate these components into your React projects with ease.",
+      languages: [
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "Tailwind css",
+          iconifyClass: "logos-tailwind",
+        },
+      ],
+      links: [
+        {
+          name: "Github",
+          url: "https://github.com/abhishek-06-singh/ReactBreeze-UI-Library",
+          iconifyClass: "ri:github-fill",
+        },
+        {
+          name: "Live Demo",
+          url: "https://react-breeze-ui-library.vercel.app/",
+          iconifyClass: "mdi:web",
+        },
+      ],
+    },
+    {
+      id: "1",
       name: "LinkedIn Clone",
       img:
         "https://user-images.githubusercontent.com/115978151/231720986-43a49527-8ce7-44a8-bd65-9092bfba10f3.png",
@@ -348,7 +379,7 @@ const projects = {
       ],
     },
     {
-      id: "1",
+      id: "2",
       name: "Min-Ecom - Ecommerce application",
       img:
         "https://user-images.githubusercontent.com/115978151/267286256-39a8757e-b6ca-4608-b899-86c71112657e.png",
@@ -389,7 +420,7 @@ const projects = {
       ],
     },
     {
-      id: "2",
+      id: "3",
       name: "COINbet",
       img:
         "https://user-images.githubusercontent.com/115978151/267287852-abcd787d-e3ed-460c-9714-acd776da3c93.png",
@@ -430,7 +461,7 @@ const projects = {
       ],
     },
     {
-      id: "3",
+      id: "4",
       name: "Zomato Clone",
       img:
         "https://user-images.githubusercontent.com/115978151/267290833-b7ae6b6d-6630-4369-aec7-e3f5c76c9e20.png",
@@ -467,7 +498,7 @@ const projects = {
       ],
     },
     {
-      id: "4",
+      id: "5",
       name: "Modern Notekeeping",
       img:
         "https://user-images.githubusercontent.com/115978151/267293321-6bf2fbdd-9d24-4a61-81cb-383138d07fb2.png",
